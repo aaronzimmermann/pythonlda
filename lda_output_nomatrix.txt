@@ -1,0 +1,673 @@
+Iteration	-logP
+
+Topic 10, count 2.146960049350073
+
+Word	Count
+thousand	0.5771
+performance	0.5137
+quasimodo	0.5133
+modern	0.2663
+bitter	0.1146
+explained	0.0701
+indefinite	0.0449
+met	0.0415
+policeman	0.0056
+
+Word	P(Topic|Word)
+thousand	0.0385
+performance	0.0380
+quasimodo	0.0380
+modern	0.0363
+bitter	0.0353
+explained	0.0350
+indefinite	0.0348
+met	0.0348
+policeman	0.0345
+
+Topic 19, count 1.9287144131501357
+
+Word	Count
+performance	0.5006
+quasimodo	0.4995
+thousand	0.4108
+modern	0.2279
+bitter	0.1207
+explained	0.0564
+met	0.0477
+indefinite	0.0377
+policeman	0.0272
+
+Word	P(Topic|Word)
+performance	0.0379
+quasimodo	0.0379
+thousand	0.0373
+modern	0.0361
+bitter	0.0353
+explained	0.0349
+met	0.0348
+indefinite	0.0347
+policeman	0.0347
+
+Topic 8, count 1.9022455012315282
+
+Word	Count
+policeman	0.9977
+bitter	0.2869
+explained	0.1534
+indefinite	0.1225
+modern	0.1138
+performance	0.0600
+quasimodo	0.0597
+thousand	0.0577
+met	0.0506
+
+Word	P(Topic|Word)
+policeman	0.0414
+bitter	0.0365
+explained	0.0355
+indefinite	0.0353
+modern	0.0353
+performance	0.0349
+quasimodo	0.0349
+thousand	0.0349
+met	0.0348
+
+Topic 22, count 1.8638466425112112
+
+Word	Count
+met	0.7219
+indefinite	0.3595
+explained	0.2909
+bitter	0.1634
+modern	0.1312
+thousand	0.0540
+performance	0.0509
+quasimodo	0.0507
+policeman	0.0414
+
+Word	P(Topic|Word)
+met	0.0395
+indefinite	0.0370
+explained	0.0365
+bitter	0.0356
+modern	0.0354
+thousand	0.0349
+performance	0.0348
+quasimodo	0.0348
+policeman	0.0348
+
+Topic 16, count 1.7794853048798402
+
+Word	Count
+policeman	0.7442
+thousand	0.2901
+bitter	0.2032
+quasimodo	0.1465
+performance	0.1460
+modern	0.1207
+explained	0.0655
+indefinite	0.0442
+met	0.0190
+
+Word	P(Topic|Word)
+policeman	0.0396
+thousand	0.0365
+bitter	0.0359
+quasimodo	0.0355
+performance	0.0355
+modern	0.0353
+explained	0.0349
+indefinite	0.0348
+met	0.0346
+
+Topic 2, count 1.7746296419844931
+
+Word	Count
+performance	0.4470
+quasimodo	0.4449
+modern	0.2570
+bitter	0.1457
+explained	0.1332
+indefinite	0.1208
+met	0.1156
+thousand	0.1031
+policeman	0.0073
+
+Word	P(Topic|Word)
+performance	0.0376
+quasimodo	0.0376
+modern	0.0363
+bitter	0.0355
+explained	0.0354
+indefinite	0.0353
+met	0.0353
+thousand	0.0352
+policeman	0.0345
+
+Topic 3, count 1.7291668341541915
+
+Word	Count
+indefinite	0.4726
+explained	0.3980
+modern	0.2099
+bitter	0.1942
+met	0.1865
+thousand	0.1087
+quasimodo	0.0707
+performance	0.0702
+policeman	0.0184
+
+Word	P(Topic|Word)
+indefinite	0.0377
+explained	0.0372
+modern	0.0359
+bitter	0.0358
+met	0.0358
+thousand	0.0352
+quasimodo	0.0350
+performance	0.0350
+policeman	0.0346
+
+Topic 23, count 1.7124595932624327
+
+Word	Count
+indefinite	0.4444
+explained	0.3518
+thousand	0.2147
+modern	0.1989
+met	0.1743
+bitter	0.1673
+quasimodo	0.0744
+performance	0.0743
+policeman	0.0123
+
+Word	P(Topic|Word)
+indefinite	0.0375
+explained	0.0369
+thousand	0.0360
+modern	0.0359
+met	0.0357
+bitter	0.0356
+quasimodo	0.0350
+performance	0.0350
+policeman	0.0346
+
+Topic 4, count 1.705089946952358
+
+Word	Count
+indefinite	0.4492
+explained	0.3765
+met	0.2301
+bitter	0.2018
+modern	0.1951
+quasimodo	0.0864
+performance	0.0860
+thousand	0.0547
+policeman	0.0252
+
+Word	P(Topic|Word)
+indefinite	0.0376
+explained	0.0371
+met	0.0361
+bitter	0.0359
+modern	0.0358
+quasimodo	0.0351
+performance	0.0351
+thousand	0.0349
+policeman	0.0347
+
+Topic 24, count 1.6906947850499048
+
+Word	Count
+thousand	0.3948
+modern	0.2254
+indefinite	0.1990
+explained	0.1943
+quasimodo	0.1844
+performance	0.1840
+met	0.1780
+bitter	0.1280
+policeman	0.0029
+
+Word	P(Topic|Word)
+thousand	0.0372
+modern	0.0360
+indefinite	0.0359
+explained	0.0358
+quasimodo	0.0358
+performance	0.0358
+met	0.0357
+bitter	0.0354
+policeman	0.0345
+
+Topic 13, count 1.663774879337367
+
+Word	Count
+policeman	0.4754
+quasimodo	0.2447
+performance	0.2435
+bitter	0.2073
+thousand	0.2023
+modern	0.1645
+explained	0.0698
+indefinite	0.0421
+met	0.0142
+
+Word	P(Topic|Word)
+policeman	0.0378
+quasimodo	0.0362
+performance	0.0362
+bitter	0.0359
+thousand	0.0359
+modern	0.0356
+explained	0.0350
+indefinite	0.0348
+met	0.0346
+
+Topic 20, count 1.6610202163832908
+
+Word	Count
+quasimodo	0.4149
+performance	0.4132
+met	0.2551
+modern	0.1927
+bitter	0.1341
+thousand	0.0790
+explained	0.0650
+policeman	0.0587
+indefinite	0.0483
+
+Word	P(Topic|Word)
+quasimodo	0.0373
+performance	0.0373
+met	0.0362
+modern	0.0358
+bitter	0.0354
+thousand	0.0350
+explained	0.0349
+policeman	0.0349
+indefinite	0.0348
+
+Topic 0, count 1.5516639105752437
+
+Word	Count
+policeman	0.4334
+indefinite	0.2375
+bitter	0.2339
+explained	0.2171
+met	0.1511
+modern	0.1209
+thousand	0.0550
+performance	0.0515
+quasimodo	0.0514
+
+Word	P(Topic|Word)
+policeman	0.0375
+indefinite	0.0361
+bitter	0.0361
+explained	0.0360
+met	0.0355
+modern	0.0353
+thousand	0.0349
+performance	0.0348
+quasimodo	0.0348
+
+Topic 17, count 1.5504187867354622
+
+Word	Count
+indefinite	0.2938
+explained	0.2468
+modern	0.2225
+performance	0.1909
+quasimodo	0.1903
+bitter	0.1691
+met	0.1242
+thousand	0.0941
+policeman	0.0188
+
+Word	P(Topic|Word)
+indefinite	0.0365
+explained	0.0362
+modern	0.0360
+performance	0.0358
+quasimodo	0.0358
+bitter	0.0356
+met	0.0353
+thousand	0.0351
+policeman	0.0346
+
+Topic 25, count 1.53155738554053
+
+Word	Count
+modern	0.2364
+thousand	0.2341
+performance	0.2111
+quasimodo	0.2100
+bitter	0.2047
+explained	0.1951
+indefinite	0.1586
+policeman	0.0557
+met	0.0258
+
+Word	P(Topic|Word)
+modern	0.0361
+thousand	0.0361
+performance	0.0359
+quasimodo	0.0359
+bitter	0.0359
+explained	0.0358
+indefinite	0.0356
+policeman	0.0349
+met	0.0347
+
+Topic 9, count 1.5120217537238607
+
+Word	Count
+met	0.3706
+modern	0.1819
+explained	0.1653
+quasimodo	0.1604
+performance	0.1604
+indefinite	0.1597
+thousand	0.1511
+bitter	0.1406
+policeman	0.0220
+
+Word	P(Topic|Word)
+met	0.0370
+modern	0.0357
+explained	0.0356
+quasimodo	0.0356
+performance	0.0356
+indefinite	0.0356
+thousand	0.0355
+bitter	0.0355
+policeman	0.0346
+
+Topic 6, count 1.5088032771306414
+
+Word	Count
+policeman	0.3993
+bitter	0.2507
+explained	0.2083
+indefinite	0.1695
+met	0.1628
+modern	0.1348
+thousand	0.0843
+quasimodo	0.0496
+performance	0.0494
+
+Word	P(Topic|Word)
+policeman	0.0372
+bitter	0.0362
+explained	0.0359
+indefinite	0.0357
+met	0.0356
+modern	0.0354
+thousand	0.0351
+quasimodo	0.0348
+performance	0.0348
+
+Topic 27, count 1.5076763140369698
+
+Word	Count
+quasimodo	0.2499
+performance	0.2497
+modern	0.2186
+thousand	0.1953
+bitter	0.1554
+explained	0.1542
+indefinite	0.1321
+met	0.1319
+policeman	0.0205
+
+Word	P(Topic|Word)
+quasimodo	0.0362
+performance	0.0362
+modern	0.0360
+thousand	0.0358
+bitter	0.0356
+explained	0.0355
+indefinite	0.0354
+met	0.0354
+policeman	0.0346
+
+Topic 7, count 1.4809345189569532
+
+Word	Count
+explained	0.2432
+indefinite	0.2307
+thousand	0.2279
+modern	0.2131
+bitter	0.1945
+quasimodo	0.1261
+performance	0.1255
+met	0.0730
+policeman	0.0470
+
+Word	P(Topic|Word)
+explained	0.0362
+indefinite	0.0361
+thousand	0.0361
+modern	0.0360
+bitter	0.0358
+quasimodo	0.0354
+performance	0.0353
+met	0.0350
+policeman	0.0348
+
+Topic 26, count 1.475243940983187
+
+Word	Count
+policeman	0.2634
+quasimodo	0.2580
+performance	0.2568
+met	0.2276
+bitter	0.1465
+modern	0.1298
+thousand	0.0810
+explained	0.0590
+indefinite	0.0530
+
+Word	P(Topic|Word)
+policeman	0.0363
+quasimodo	0.0363
+performance	0.0363
+met	0.0361
+bitter	0.0355
+modern	0.0354
+thousand	0.0350
+explained	0.0349
+indefinite	0.0348
+
+Topic 15, count 1.4628710236851878
+
+Word	Count
+explained	0.2475
+indefinite	0.2368
+bitter	0.2286
+policeman	0.2091
+thousand	0.1874
+modern	0.1584
+met	0.0749
+performance	0.0602
+quasimodo	0.0599
+
+Word	P(Topic|Word)
+explained	0.0362
+indefinite	0.0361
+bitter	0.0361
+policeman	0.0359
+thousand	0.0358
+modern	0.0356
+met	0.0350
+performance	0.0349
+quasimodo	0.0349
+
+Topic 21, count 1.4613389107981059
+
+Word	Count
+met	0.3661
+explained	0.1858
+thousand	0.1789
+indefinite	0.1766
+modern	0.1577
+bitter	0.1568
+quasimodo	0.0910
+performance	0.0905
+policeman	0.0580
+
+Word	P(Topic|Word)
+met	0.0370
+explained	0.0358
+thousand	0.0357
+indefinite	0.0357
+modern	0.0356
+bitter	0.0356
+quasimodo	0.0351
+performance	0.0351
+policeman	0.0349
+
+Topic 1, count 1.4239816956847795
+
+Word	Count
+policeman	0.3782
+met	0.2139
+bitter	0.1786
+indefinite	0.1376
+explained	0.1288
+thousand	0.1245
+modern	0.1093
+quasimodo	0.0767
+performance	0.0766
+
+Word	P(Topic|Word)
+policeman	0.0371
+met	0.0360
+bitter	0.0357
+indefinite	0.0354
+explained	0.0354
+thousand	0.0353
+modern	0.0352
+quasimodo	0.0350
+performance	0.0350
+
+Topic 18, count 1.42285650174541
+
+Word	Count
+thousand	0.3092
+met	0.2083
+modern	0.1717
+bitter	0.1472
+quasimodo	0.1360
+performance	0.1357
+explained	0.1346
+indefinite	0.1165
+policeman	0.0636
+
+Word	P(Topic|Word)
+thousand	0.0366
+met	0.0359
+modern	0.0357
+bitter	0.0355
+quasimodo	0.0354
+performance	0.0354
+explained	0.0354
+indefinite	0.0353
+policeman	0.0349
+
+Topic 11, count 1.4177145710553507
+
+Word	Count
+bitter	0.2294
+explained	0.1933
+policeman	0.1896
+modern	0.1896
+indefinite	0.1647
+performance	0.1435
+quasimodo	0.1425
+thousand	0.1251
+met	0.0401
+
+Word	P(Topic|Word)
+bitter	0.0361
+explained	0.0358
+policeman	0.0358
+modern	0.0358
+indefinite	0.0356
+performance	0.0355
+quasimodo	0.0355
+thousand	0.0353
+met	0.0348
+
+Topic 5, count 1.39372130637299
+
+Word	Count
+met	0.2779
+thousand	0.1963
+modern	0.1683
+bitter	0.1605
+explained	0.1429
+performance	0.1278
+quasimodo	0.1275
+indefinite	0.1149
+policeman	0.0777
+
+Word	P(Topic|Word)
+met	0.0364
+thousand	0.0358
+modern	0.0356
+bitter	0.0356
+explained	0.0355
+performance	0.0354
+quasimodo	0.0354
+indefinite	0.0353
+policeman	0.0350
+
+Topic 14, count 1.379322699217505
+
+Word	Count
+met	0.2644
+policeman	0.2100
+performance	0.1642
+quasimodo	0.1639
+bitter	0.1574
+modern	0.1358
+thousand	0.1046
+explained	0.0933
+indefinite	0.0856
+
+Word	P(Topic|Word)
+met	0.0363
+policeman	0.0359
+performance	0.0356
+quasimodo	0.0356
+bitter	0.0356
+modern	0.0354
+thousand	0.0352
+explained	0.0351
+indefinite	0.0351
+
+Topic 12, count 1.3617855955109988
+
+Word	Count
+met	0.2530
+bitter	0.1789
+explained	0.1598
+modern	0.1476
+indefinite	0.1472
+policeman	0.1376
+performance	0.1168
+quasimodo	0.1167
+thousand	0.1042
+
+Word	P(Topic|Word)
+met	0.0362
+bitter	0.0357
+explained	0.0356
+modern	0.0355
+indefinite	0.0355
+policeman	0.0354
+performance	0.0353
+quasimodo	0.0353
+thousand	0.0352
